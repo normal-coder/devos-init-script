@@ -1,0 +1,8 @@
+# OS / 编辑器
+.DS_Store
+*.swp
+*~
+
+# 日志与运行产物（正常在 ~/.local/state/devos-init/，防误放仓库）
+*.log
+*.done
